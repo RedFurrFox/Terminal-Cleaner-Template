@@ -3,3 +3,5 @@
 ---
 
 ### To use this, just simply paste this template to your code then calling the function named "Terminal_Cleaner()" to do its thing.
+
+Feel free to use it (with or without credits).
